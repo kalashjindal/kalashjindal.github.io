@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kalashjindal.tech
+Token: e993048adc85761044d124340a32ada1846f520bd602673dafbe83948c59e9e3
