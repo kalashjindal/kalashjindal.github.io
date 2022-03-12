@@ -66,15 +66,12 @@ body {
     text-decoration:underline;
 }
 #middle {
-    width:100vw;
-    height:90vh;
     display:flex;
     flex-direction:column;
     justify-content:center;
-    position:fixed;
+
     top:0;
     text-align:center;
-    z-index:1;
     color:#fff;
     padding-bottom:10vh;
 }
